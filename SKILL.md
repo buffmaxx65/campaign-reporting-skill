@@ -113,7 +113,7 @@ Tambahkan JSON ringkas:
 
 ## Larangan
 
-- Jangan menampilkan token/cookies/credential.
+- Jangan menampilkan data autentikasi.
 - Jangan mengarang hasil posting.
 - Jangan menyatakan publish sukses jika belum ada bukti/link/status.
 - Jangan menghapus catatan risiko dari compliance reviewer.

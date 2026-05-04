@@ -17,12 +17,6 @@ git clone https://github.com/buffmaxx65/campaign-reporting-skill \
   ~/.openclaw/skills/campaign-reporting
 ```
 
-Atau:
-
-```bash
-curl -fsSL https://raw.githubusercontent.com/buffmaxx65/campaign-reporting-skill/main/install.sh | bash
-```
-
 ## Cara pakai
 
 ```bash
